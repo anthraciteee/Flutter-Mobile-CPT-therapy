@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "553807102792",
+    "project_id": "cognilyst",
+    "storage_bucket": "cognilyst.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553807102792:android:2d737c55c47a7374bee97d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553807102792-9vs4n93i2ul0q9u8tvd6n1sllmplj3o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6J9xjeynyTxrEeyqPWdTup_PUMxAU59c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553807102792-9vs4n93i2ul0q9u8tvd6n1sllmplj3o4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
